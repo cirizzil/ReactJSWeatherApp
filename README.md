@@ -362,12 +362,12 @@ Make sure to replace `"your_api_key_here"` with your actual OpenWeatherMap API k
 In this case, we test the application by entering a valid city name like Dubai and verifying the displayed weather information.
 
 #### Screenshot
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/f75db25e-92e6-4849-9299-51a73222f5b7)
-
+![image](https://github.com/user-attachments/assets/13eaf42c-99e4-42b3-ad36-5d41934e3217)
 
 ### 2. Proof of the First Normal Case
 
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/243e1fb2-8f46-4d9d-9985-cea5d5feca7e)
+![img](https://github.com/user-attachments/assets/36919b38-9624-4415-8b73-52f759749d63)
+
 
 ### 3. Another Example of a Normal Case
 
@@ -375,24 +375,29 @@ In this case, we test the application by entering a valid city name like Dubai a
 In this case, we test the application by entering a valid city name like Delhi and verifying the displayed weather information.
 
 #### Screenshot
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/8c837653-4c94-4369-b82d-a2fcc4774f6e)
+![image](https://github.com/user-attachments/assets/1315293f-a518-4f09-bfef-7c124d4cb145)
+
 
 
 ### 4. Proof of the Second Normal Case
 
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/6ce409a1-63dd-4567-9ab6-81fbbf638a85)
+![image](https://github.com/user-attachments/assets/a35fdf22-bf9b-46b7-8921-d4456b939cc0)
+
 
 ### 5. API Key Error Catch
 
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/4a003d44-a67b-46d4-a2ab-8c537aca89e5)
+![image](https://github.com/user-attachments/assets/bbdd7eb7-1c69-4794-a1c3-e8131bf3153f)
+
 
 ### 6. Not Valid Location Error Catch
 
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/47bbec7c-88c4-428f-9eb1-adf09660aa4c)
+![image](https://github.com/user-attachments/assets/b6d7563c-f6b9-4978-bb9f-6595732a61de)
+
 
 ### 6. Empty Search Bar Error Catch
 
-![img](https://github.com/CBJdereal/ReactJSWeatherApp/assets/64748236/49444e94-709b-491e-9d6e-849d0f33fbae)
+![image](https://github.com/user-attachments/assets/c1950305-148c-48d3-be8d-2d89c947080d)
+
 
 
 
